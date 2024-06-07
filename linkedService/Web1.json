@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "Web",
 		"typeProperties": {
-			"url": "https://en.wikipedia.org/wiki/2024_Indian_general_election",
+			"url": "https://en.wikipedia.org/wiki/List_of_NFL_career_scoring_leaders",
 			"authenticationType": "Anonymous"
 		},
 		"connectVia": {
