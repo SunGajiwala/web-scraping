@@ -1,0 +1,12 @@
+{
+	"name": "AzureSynapseArtifacts1",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSynapseArtifacts",
+		"typeProperties": {
+			"endpoint": "https://synapse-workspace-sun.dev.azuresynapse.net",
+			"authentication": "MSI",
+			"workspaceResourceId": "/subscriptions/ec6d4319-d2ab-421d-8235-2b6580790285/resourceGroups/storage-datalake/providers/Microsoft.Synapse/workspaces/synapse-workspace-sun"
+		}
+	}
+}
