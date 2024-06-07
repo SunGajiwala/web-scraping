@@ -1,0 +1,9 @@
+{
+	"name": "web-scaping-data-factory-resource",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3f84f9ce-5b1d-478e-a7dc-b8f8338dd995",
+		"tenantId": "33c280d5-0f77-4d93-b9a7-1c886dc732cc"
+	}
+}
