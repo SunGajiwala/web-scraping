@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "web-scaping-data-factory-resource"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://datalakestoraegsun.dfs.core.windows.net/"
+		},
+		"HttpServer1_properties_typeProperties_url": {
+			"value": "https://www.macys.com/shop/product/doro-by-effy-diamond-woven-ring-1-ct.-t.w.-in-14k-yellow-gold-also-available-in-white-gold?ID=568899"
+		},
+		"Web1_properties_typeProperties_url": {
+			"value": "https://en.wikipedia.org/wiki/List_of_NFL_annual_scoring_leaders"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
