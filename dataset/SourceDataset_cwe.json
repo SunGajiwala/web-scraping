@@ -1,0 +1,15 @@
+{
+	"name": "SourceDataset_cwe",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Web1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "WebTable",
+		"schema": [],
+		"typeProperties": {
+			"index": 1
+		}
+	}
+}
