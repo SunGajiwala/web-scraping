@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://www.macys.com/shop/jewelry-watches/all-jewelry?id=164045",
+			"url": "https://www.macys.com/shop/product/doro-by-effy-diamond-woven-ring-1-ct.-t.w.-in-14k-yellow-gold-also-available-in-white-gold?ID=568899",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
