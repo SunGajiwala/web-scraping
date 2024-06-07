@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "Web",
 		"typeProperties": {
-			"url": "https://en.wikipedia.org/wiki/List_of_NFL_career_scoring_leaders",
+			"url": "https://en.wikipedia.org/wiki/List_of_NFL_annual_scoring_leaders",
 			"authenticationType": "Anonymous"
 		},
 		"connectVia": {
